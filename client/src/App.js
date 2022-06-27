@@ -24,7 +24,7 @@ function App() {
           <h3>Уялбай Кир! 😀</h3>
           <input
             type="text"
-            placeholder="Атыңды жаз..."
+            placeholder="Атыңды жазагой..."
             onChange={(event) => {
               setUsername(event.target.value);
             }}
